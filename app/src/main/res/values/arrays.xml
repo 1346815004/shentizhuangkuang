@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zklist">
+        <item>难受</item>
+        <item>一般</item>
+        <item>良好</item>
+    </string-array>
+    <string-array name="twlist">
+        <item>35°C</item>
+        <item>36°C</item>
+        <item>37°C</item>
+        <item>38°C</item>
+        <item>39°C</item>
+        <item>40°C</item>
+    </string-array>
+</resources>
